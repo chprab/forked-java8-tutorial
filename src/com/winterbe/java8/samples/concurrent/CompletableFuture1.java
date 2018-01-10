@@ -20,5 +20,9 @@ public class CompletableFuture1 {
     }
     
     //Test Comment
+    
+    public String process() {
+    	return "prabhu";
+    }
 
 }
